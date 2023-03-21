@@ -1,0 +1,11 @@
+.heading {
+    text-align: center;
+    font-weight: 300;
+    color: #6dfaff;
+    margin-top: 100px;
+}
+
+.heading-accent {
+    text-align: center;
+    color: #6dfaff;
+}

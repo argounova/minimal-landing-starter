@@ -1,8 +1,8 @@
 {
-  "name": "cp-photography",
+  "name": "minimal-landing-starter",
   "version": "1.0.0",
   "private": true,
-  "description": "cp-photography",
+  "description": "",
   "author": "Volantis",
   "keywords": [
     "gatsby"
